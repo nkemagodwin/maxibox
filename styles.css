@@ -1,0 +1,21 @@
+/* External styles moved from inline attributes
+
+#admin-nav { display: none; }
+#userMenu { display: none; }
+
+.align-end { align-self: flex-end; }
+
+.admin-search { max-width: 400px; margin: 1rem 0; }
+
+.full-width { width: 100%; }
+
+.center-text { text-align: center; }
+.mt-15 { margin-top: 15px; }
+
+.admin-hint { 
+  margin-top: 20px; 
+  padding: 15px; 
+  background-color: rgba(1, 180, 228, 0.1); 
+  border-radius: var(--radius);
+}
+.admin-hint p { margin: 0; font-size: 0.9rem; } */
